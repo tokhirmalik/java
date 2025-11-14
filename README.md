@@ -1,27 +1,29 @@
 # Java Learning Repository
 
-Bu repositoryda **Edinburgh Napier University**da har hafta o'rganilgan **Java** darslari, kodlari va tushuntirishlari jamlanib boriladi.
+This repository contains all weekly materials, code samples, and lab exercises from the **Foundation of Software Design and Development** module at **Edinburgh Napier University**.
 
-## 🎯 Maqsad
+## 🎯 Purpose
 
-* Universitetda o'qitilayotgan Java mavzularini tartibli saqlash
-* Haftalik praktika va laboratoriya ishlarini joylab borish
-* O'zlashtirishni mustahkamlash va kelajakda ko'rib chiqish uchun qulay arxiv yaratish
+* To document weekly progress in Java programming.
+* To store lecture notes, practical tasks, and lab solutions in one structured space.
+* To build a strong foundation in software design and development through consistent practice.
 
-## 📚 Har hafta nimalar qo'shiladi?
+## 📚 Weekly Uploads
 
-* **Dars konspektlari** (Lecture notes)
-* **Java kod namunalar**i
-* **Lab works** va amaliy mashqlar
-* **Small projects** yoki mustaqil ishlanmalar
+Every week, new content will be added, including:
 
-## 🔧 Texnologiyalar
+* **Lecture notes** and summaries
+* **Java code examples** taught in class
+* **Lab exercises** and practical solutions
+* **Mini‑projects** and assignments related to software development
 
-* Java 17+
-* IntelliJ IDEA / VS Code
-* Git & GitHub
+## 🔧 Technologies & Tools
 
-## 📂 Repository tuzilmasi (namuna)
+* **Java 17+**
+* **IntelliJ IDEA** / **VS Code**
+* **Git & GitHub** for version control
+
+## 📂 Repository Structure (Example)
 
 ```
 java/
@@ -31,22 +33,27 @@ java/
 │   └── exercises/
 ├── week-02-oop-basics/
 │   ├── notes.md
-│   ├── classes-and-objects.java
+│   ├── ClassesAndObjects.java
 │   └── tasks/
 └── ...
 ```
 
-## 📝 Qanday qilib foydalaniladi?
+## 🚀 How to Use This Repository
 
-1. Repositoryni clone qiling:
+1. Clone the repository:
 
 ```
 git clone https://github.com/username/java.git
 ```
 
-2. Har haftalik yangilanishlarni kuzatib boring
-3. Kodlarni o‘zingizda ishlatib ko‘ring
+2. Navigate through the week folders to access Java topics.
+3. Run and experiment with the code to deepen your understanding.
 
-## ✨ Contributor
+## ✨ Author
 
-**Toxirmalik Saloxiddinov** – Edinburgh Napier University (Data Science)
+**Toxirmalik Saloxiddinov**
+Foundation of Software Design and Development
+Edinburgh Napier University – Data Science
+
+Feel free to open an Issue or submit a Pull Request for suggestions or improvements.
+
